@@ -3,7 +3,7 @@
 </p>
 
 ````
-apt install -y wget screen && apt update Dy && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Arya-Blitar22/haproxy/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Arya-Blitar22/haproxy/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 ````
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/haproxy/main/scp2.png)
