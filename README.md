@@ -7,3 +7,5 @@ apt install -y wget screen && apt update Dy && apt upgrade -y && apt install lol
 ````
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/haproxy/main/scp2.png)
+
+Wa. 087721815317
